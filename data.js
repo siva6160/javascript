@@ -1,0 +1,10 @@
+var1=61;
+var2=60;
+var3=var1+var2;
+var4=var1-var2;
+var5=var1/var2;
+var6=var1*var2;
+console.log("the addtion of two numbers is :",var3);
+console.log("the subctraction of two numbers :",var4);
+console.log("the division of two numbers is :",var5);
+console.log("the mulctipication of two numbers",var6);
